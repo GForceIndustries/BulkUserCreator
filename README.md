@@ -1,6 +1,6 @@
 # Genesys Cloud Bulk User Creator
 
-Script to bulk create users inside a Genesys Cloud CX org. Useful for scale testing where a large number of users need to be created.
+Script to bulk create users inside a Genesys Cloud CX org. Useful for scale testing where a large number of users need to be created. This is 100% unofficial, unsupported and not endorsed or maintained by Genesys.
 
 ## Features
 
